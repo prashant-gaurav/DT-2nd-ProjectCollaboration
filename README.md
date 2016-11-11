@@ -19,7 +19,7 @@
 * Apache tomcat (server)
 
 ### Installing 
-* Downlode NewCollaboration  and import in eclips
+* Downlode NewCollaboration  and import in eclipse
 * Connect Database
 * Then perform these opration in eclips
 * Mava claen 
