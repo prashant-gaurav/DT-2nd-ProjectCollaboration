@@ -25,6 +25,7 @@
 * Mava claen 
 * Manan compile
 * Mavan install
+* Run
 
 
 
