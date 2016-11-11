@@ -2,15 +2,15 @@
 *  Collaboration is the process of two or more people or organizations working together to realize mutual goals. I Designed this site for student & name of application is Help4U. Through this website Student Can interact each other easily  in group. 
 
 ### Technologies
+* Html
+* Bootstrap
+* CSS
+* Xml
+* Web scket
+* AngulerJs
 * JAVA
 * J2EE
 * Spring 4
-* Jsp
-* Xml
-* Bootstrap
-* CSS
-* Web scket
-* AngulerJs
 
 
 ###  Requird Tool
