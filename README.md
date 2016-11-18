@@ -1,7 +1,7 @@
 # Dt-2nd-Project Collaboration
 *  Collaboration is the process of two or more people or organizations working together to realize mutual goals. I Designed this site for student & name of application is Help4U. Through this website Student Can interact each other easily  in group. 
 
-### Technologies
+### Technologies Used
 * Html
 * Bootstrap
 * CSS
